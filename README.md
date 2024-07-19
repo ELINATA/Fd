@@ -38,9 +38,7 @@ Se espera que en futuras versiones de éste programa se cuente con:
 
 ## Aproximación del tiempo de ejecución:
 Considere el número de alumnos en la base de datos como $n$ y el número de procesadores lógicos de ordenador como $p$, con ello tenemos que
-$$
-t\approx1.2\frac{n}{p}+10 [=] s
-$$
+$$t\approx1.2\dfrac{n}{p}+10 [=] s$$
 Los procesadores lógicos de su ordenador los puede ver en el administrador de tareas o bien con el los siguientes comandos en una terminal:
 ```
 python
